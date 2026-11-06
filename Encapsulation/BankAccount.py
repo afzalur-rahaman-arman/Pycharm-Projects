@@ -15,3 +15,5 @@ ac.deposit(50)
 print(ac.current_balance())
 ac.withdraw(10)
 print(ac.current_balance())
+ac.balance=0
+print(ac.current_balance())

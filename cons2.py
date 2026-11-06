@@ -11,3 +11,4 @@ class person:
 
 p1=person("Afzalur Rahaman", 101766, [60,75,80])
 p2=person("Afzal", 101756, [68,75,80])
+
