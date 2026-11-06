@@ -1,0 +1,37 @@
+{
+    "products": [
+        {
+            "name": "Fish",
+            "price": 800,
+            "sell": true
+        },
+        {
+            "name": "Fishh",
+            "price": 700,
+            "sell": false
+        }
+    ],
+    "cloth": [
+        {
+            "name": "A",
+            "price": 850,
+            "sell": true,
+            "sizes": [
+                "long",
+                "short"
+            ]
+        },
+        {
+            "name": "B",
+            "price": 750,
+            "sell": false,
+            "sizes": [
+                "long",
+                "short",
+                "extra large",
+                "extra large",
+                "extra large"
+            ]
+        }
+    ]
+}
